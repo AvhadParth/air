@@ -1,0 +1,68 @@
+#seat-animities .animitestext p{font-size:14px !important;line-height:19.6px !important;@media(max-width:768px){font-size:12px !important;line-height:16.8px !important}
+}
+#seat-animities .aiAmentitesParent img{width:24px;height:24px;align-self:center}
+#seat-table table{border:1px solid var(--ai-table-border-color);border-spacing:0;width:100%;margin-bottom:0 !important}
+#seat-table td{border:1px solid var(--ai-table-border-color);padding:10px}
+@media(max-width:768px){#flght-ftr .cmp-container{margin-bottom:8px !important}
+#seat-table td p br{display:none}
+#seat-table .text h2{margin-bottom:12px !important}
+#seat-table .text table td{display:flex;border-left:0;padding:8px 16px}
+#seat-table .text table td:nth-child(2){padding-top:12px !important}
+#seat-table table{border:0}
+#seat-table table td{display:block;border:0;background:transparent}
+#seat-table tr{display:block;background:#fff;margin-bottom:8px}
+#seat-table td:nth-child(2) p{max-width:40%}
+#seat-table td:nth-child(3) p{max-width:40%}
+#seat-table td:nth-child(4) p{max-width:40%}
+#seat-table td:nth-child(4)::before{content:"Economy";width:56%;display:inline-block;font-weight:bold;text-align:left;color:#383c42 !important}
+#seat-table td:nth-child(3)::before{content:"Premium Economy";width:56%;display:inline-block;font-weight:bold;text-align:left;color:#383c42 !important}
+#seat-table td:nth-child(2)::before{content:"Business";width:56%;display:inline-block;font-weight:bold;text-align:left;color:#383c42 !important}
+#seat-table td:nth-child(1){border-bottom:1px solid #ccc;display:flex !important;flex-direction:column}
+div#seat-animities{display:flex;margin-top:24px}
+#seat-table tr:first-child{display:none}
+#seat-table table{border:none !important}
+#seat-table tr{border:1px solid #fff;padding:2px}
+div#seat-table{background:transparent !important}
+#seat-table td{border-bottom:none !important}
+#seat-table td:first-child{border-bottom:1px solid #eaeaea !important}
+p#seatpitch br{display:none}
+p#seatpitch{width:100% !important}
+p#seatrecline{width:100% !important}
+p#seatrecline br{display:none}
+p#seatwidth{width:100% !important}
+p#seatwidth br{display:none}
+}
+#seat-table td:first-child p:first-child{color:#383c42 !important;font-family:Nunito Sans;font-size:16px !important;font-style:normal;font-weight:600 !important;line-height:125% !important}
+.ImageZoom{margin-bottom:32px;margin-top:32px;@media(max-width:991px){margin-top:24px}
+}
+@media(min-width:767px){#flght-ftr .container:first-child{padding-left:0}
+#flght-ftr .container:last-child{padding-right:0}
+}
+#flght-ftr .aem-Grid.aem-Grid--12.aem-Grid--tablet--12.aem-Grid--default--12.aem-Grid--phone--12{display:flex;@media(max-width:767px){flex-direction:column}
+}
+#flght-ftr .container{padding-left:12px;padding-right:12px}
+#flght-ftr ul li:before{border:1px solid black !important;content:".";height:7px;left:0;position:absolute;top:7.25px;-webkit-transform:rotate(45deg);transform:rotate(45deg);width:7px;border-radius:30px;background:black}
+#flght-ftr ul{padding-left:10px !important}
+@media(min-width:768px){#flght-ftr .cmp-container{min-height:198px !important}
+}
+@media(min-width:768px) and (max-width:991px){#flght-ftr .cmp-container{min-height:298px !important}
+div#flght-ftr{margin-left:24px;margin-right:24px}
+}
+#flght-ftr .cmp-container{padding:12px !important}
+.flght-desc{bottom:-4px !important}
+#flght-ftr .white-section ul{margin-bottom:0 !important}
+@media(min-width:767px) and (max-width:991px){div#seat-animities{display:flex;justify-content:space-around}
+}
+p#seatpitch{font-size:14px !important}
+p#seatrecline{font-size:14px !important}
+p#seatwidth{font-size:14px !important}
+@media(max-width:767px){.flight-card .flght-desc{position:relative}
+#seat-table table td p{width:80%}
+#a350seatmappage #content-page .page-description{padding-left:16px !important}
+#a350seatmappage .aiAmentitesParent{align-items:center;min-height:72px}
+}
+@media(min-width:991px){div#seat-animities{margin-top:8px}
+}
+a#sit-btn{border:1px solid red;padding:12.5px 21px;color:#da0e29 !important;text-decoration:none !important;width:150px !important;display:block}
+@media(min-width:991px){p#sit-btn-td{display:flex;justify-content:center}
+}

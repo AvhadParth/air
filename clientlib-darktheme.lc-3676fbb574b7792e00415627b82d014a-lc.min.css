@@ -1,0 +1,14 @@
+.dark-theme .bannerWithText{filter:grayscale()}
+.dark-theme .sectionTitle{filter:grayscale()}
+.dark-theme ul.sub-menu{filter:grayscale(1)}
+.dark-theme #footerAccordion .container-bs:not(:nth-child(4)){filter:grayscale(1)}
+.dark-theme .ai-news-alert-accordion-main{filter:grayscale(1)}
+.dark-theme img.card-img-top{filter:grayscale(1)}
+.dark-theme .mat-tab-labels{filter:grayscale(1)}
+.dark-theme .radio-header{filter:grayscale(1)}
+.dark-theme .d-flex.p-0.col-12.col-lg-7.justify-content-between{filter:grayscale(1)}
+.dark-theme .promo.col-lg-7{filter:grayscale(1)}
+.dark-theme .card-img-overlay .learn-more-button:hover{background-color:#806364;border-color:#806364}
+.dark-theme #cardBannerLink.learn-more-button{background:#806364 !important}
+.dark-theme mat-ink-bar.mat-ink-bar{filter:grayscale(1)}
+.dark-theme .roundIcon .icon-image:hover{background-color:#806364}
